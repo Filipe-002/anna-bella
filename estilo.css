@@ -17,6 +17,14 @@ body{
     padding: 10px;
 }
 
+#edicao1{
+    border: 10px solid gray;
+}
+
+#edicao2{
+    border: 10px solid #c3c3ae;
+}
+
 a{
     color: #4b566a;
     text-decoration: none;
@@ -32,3 +40,5 @@ a{
     color: gray;
     font-size: 1.2em;
 }
+
+
